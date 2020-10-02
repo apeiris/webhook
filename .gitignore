@@ -5,3 +5,4 @@
 .vscode/ipch
 src/password.h
 src/cert.h
+src/secure.h
